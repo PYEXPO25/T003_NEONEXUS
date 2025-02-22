@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>Hidden Spots of the District</h1>
+<button><a href="/add_data">Add Data</a></button>
+    <table style="border-collapse: collapse; width: 100%;" border="1">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black; padding: 8px;">Destinations</th>
+            <th style="border: 1px solid black; padding: 8px;">Selected spots</th>
+            <th style="border: 1px solid black; padding: 8px;">Famous Spots</th>
+            <th style="border: 1px solid black; padding: 8px;">Historical Spots</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        {% for HiddenSpot in all_hidden %}
+        <tr>
+            <td style="border: 1px solid black; padding: 8px;">{{hidden_spot.destination}}</td>
+            <td style="border: 1px solid black; padding: 8px;">{{hidden_spot.selected_spots}}</td>
+            <td><button>Update</button></td>
+            <td><button>Delete</button></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}
