@@ -17,7 +17,7 @@ less crowded attractions, and overcoming language barriers when navigating unfam
 
 ## Overview
 
-This project has helped us to think analatically, which we hadn't been like before.the purpose was to ensure the childs safety with the help of our hardware gadget. It aims to achieve by providing the best experience for the parents to enjoy their destination spot without worrying about their child's safety all the time and enjoy their happiest moments.
+- This project has helped us to think analatically, which we hadn't been like before.the purpose was to ensure the childs safety with the help of our hardware gadget. It aims to achieve by providing the best experience for the parents to enjoy their destination spot without worrying about their child's safety all the time and enjoy their happiest moments.
 
 ---
 
