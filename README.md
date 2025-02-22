@@ -23,13 +23,13 @@ This project has helped us to think analatically, which we hadn't been like befo
 
 ## Team Members
 Team Members
--Team ID-T003
+- Team ID-T003
 - Makizhaa Sri.D  -  Hardware
--Sharmily.V      -  Fullstack
--Jeevambigai.K   -  Frontend
--Mirudhubasini.N -  Backend
--Tayanithaa.N.S  -  Backend
--Dheeksha.D      -  Frontend
+- Sharmily.V      -  Fullstack
+- Jeevambigai.K   -  Frontend
+- Mirudhubasini.N -  Backend
+- Tayanithaa.N.S  -  Backend
+- Dheeksha.D      -  Frontend
 
 
 
