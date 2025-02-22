@@ -34,7 +34,7 @@ Team Members
 
 
 
-![Team Photo](Media/team-photo.png)
+![Team Photo](Media/team-photo.jpeg)
 
 ---
 
