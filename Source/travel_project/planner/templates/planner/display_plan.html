@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Travel Plan</title>
+</head>
+<body>
+    <h1>Your Travel Plan</h1>
+    <ul>
+        {% for place in places %}
+            <li>{{ place.name }}: {{ place.description }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
