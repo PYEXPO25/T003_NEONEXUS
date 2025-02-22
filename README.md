@@ -1,5 +1,5 @@
 # T003_NEONEXUS
-![PyExpo Logo](media/pyexpo-logo.png)
+![PyExpo Logo](Media/pyexpo-logo.png)
 
 ---
 
@@ -34,7 +34,7 @@ Team Members
 
 
 
-![Team Photo](media/team-photo.png)
+![Team Photo](Media/team-photo.jpeg)
 
 ---
 
