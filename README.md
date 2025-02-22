@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-*Problem Statement ID – T116
+-Problem Statement ID – T116
 Our problem Statement-
 Tourists, especially families traveling with children, often face challenges ensuring their safety while exploring new destinations. Parents worry about losing sight of their children in crowded places, and finding them
 quickly can be difficult. Additionally, tourists struggle with planning their itinerary efficiently, discovering hidden or
@@ -23,13 +23,13 @@ This project has helped us to think analatically, which we hadn't been like befo
 
 ## Team Members
 Team Members
-Team ID-T003
-Makizhaa Sri.D  -  Hardware
-Sharmily.V      -  Fullstack
-Jeevambigai.K   -  Frontend
-Mirudhubasini.N -  Backend
-Tayanithaa.N.S  -  Backend
-Dheeksha.D      -  Frontend
+-Team ID-T003
+- Makizhaa Sri.D  -  Hardware
+-Sharmily.V      -  Fullstack
+-Jeevambigai.K   -  Frontend
+-Mirudhubasini.N -  Backend
+-Tayanithaa.N.S  -  Backend
+-Dheeksha.D      -  Frontend
 
 
 
